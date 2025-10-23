@@ -6,3 +6,4 @@ Konflikt
 -další nový řádek
 -nový řádek v githubu
 > a konflikt je vyřešen!
+zkouška ve vsc
